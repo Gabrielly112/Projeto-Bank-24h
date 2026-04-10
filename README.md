@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+https://drive.google.com/drive/folders/1xr7pxTeh-3DbMcAdluky3c3kChDzmmc0?usp=drive_link
 ## 📝 Sobre o Projeto
 Desenvolvido para a **Fintech Informática**, o projeto visa sanar falhas críticas de validação de dados em terminais de autoatendimento. O sistema "Bank 24h" não é apenas uma interface bancária, mas um ecossistema lógico preparado para lidar com entradas de usuários de forma segura e resiliente.
 
